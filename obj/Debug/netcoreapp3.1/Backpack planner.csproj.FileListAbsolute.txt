@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Programación\Backpack planner\bin\Debug\netcoreapp3.1\Backpack planner.exe
+C:\Users\Paul\Documents\Programación\Backpack planner\bin\Debug\netcoreapp3.1\Backpack planner.deps.json
+C:\Users\Paul\Documents\Programación\Backpack planner\bin\Debug\netcoreapp3.1\Backpack planner.runtimeconfig.json
+C:\Users\Paul\Documents\Programación\Backpack planner\bin\Debug\netcoreapp3.1\Backpack planner.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Programación\Backpack planner\bin\Debug\netcoreapp3.1\Backpack planner.dll
+C:\Users\Paul\Documents\Programación\Backpack planner\bin\Debug\netcoreapp3.1\Backpack planner.pdb
+C:\Users\Paul\Documents\Programación\Backpack planner\obj\Debug\netcoreapp3.1\Backpack planner.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Programación\Backpack planner\obj\Debug\netcoreapp3.1\Backpack planner.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Programación\Backpack planner\obj\Debug\netcoreapp3.1\Backpack planner.AssemblyInfo.cs
+C:\Users\Paul\Documents\Programación\Backpack planner\obj\Debug\netcoreapp3.1\Backpack planner.dll
+C:\Users\Paul\Documents\Programación\Backpack planner\obj\Debug\netcoreapp3.1\Backpack planner.pdb
